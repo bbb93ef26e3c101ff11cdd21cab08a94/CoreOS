@@ -13,4 +13,7 @@ Coming soon:
 - Network driver
 - Sound driver
 - and more...
-  
+
+  How to build:
+  - 1) Run install install_tools
+  - 2) make CoreOS.iso 
